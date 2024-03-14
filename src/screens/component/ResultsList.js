@@ -41,4 +41,4 @@ const styles=StyleSheet.create({
         marginBottom:5
     }
 });
-export default ResultList;
+export default ResultList
